@@ -1,2 +1,8 @@
-# gerar_cadastros
-Gera cadastros de usuários (alunos e professores) de maneira aleatória
+# Gerar Cadastros
+
+*Scripts* para gerar cadastros (alunos e professores) de maneira aleatória.
+
+----
+
+
+
